@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vparonline/"> <img src="https://i.hizliresim.com/lAuT3p.png" width="200" weight="400px"></a>
+  <a href="https://github.com/Vparonline/"> <img src="https://i.hizliresim.com/lAuT3p.png" width="500" weight="700px"></a>
 </p>
