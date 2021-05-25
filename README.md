@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <a href="https://i.hizliresim.com/lAuT3p.png" weight="%100" height="%150" ></a>
+  <a href="https://i.hizliresim.com/lAuT3p.png" weight="" height="" ></a>
 </p>
