@@ -3,6 +3,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vparonline/"> <img src="https://i.hizliresim.com/lAuT3p.png" width="200" weight="400px">Hello, I am Elchavo.py!
-FULL-STACK DEVELOPER.</a>
+  <a href="https://github.com/Vparonline/"> <img src="https://i.hizliresim.com/lAuT3p.png" width="200" weight="400px"></a>
 </p>
