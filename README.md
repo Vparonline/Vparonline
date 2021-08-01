@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <a href="https://wwww.instagram.com/elchavo.py"> <img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="300" weight="200px"></a>
+  <a href="https://wwww.instagram.com/elchavo.py"> <img src="https://image.flaticon.com/icons/png/512/174/174855.png" width="100" weight="100px"></a>
 </p>
