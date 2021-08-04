@@ -15,7 +15,7 @@
 
 ## ⚡ **Discord account;**
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/838931132581281813)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/838931132581281813?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/838931132581281813)
 
 
 <p align=center>
