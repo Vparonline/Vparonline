@@ -14,8 +14,8 @@
 </p>
 
 ## ⚡ **Discord account;**
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:207454354125357056)](https://discord.com/users/:207454354125357056)
+[![Chvavo](https://api.lanyard.rest/v1/users/:838931132581281813)]
+[![Chavo](https://lanyard-profile-readme.vercel.app/api/:838931132581281813)](https://discord.com/users/:838931132581281813)
 
 
 
