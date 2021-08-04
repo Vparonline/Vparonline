@@ -13,16 +13,6 @@
     <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/Vparonline?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>  <a href="https://github.com/Vparonline"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Vparonline&label=Profile%20views&color=00ffaa&style=for-the-badge"/></a>
 </p>
 
-
-<p align=center>
-  <a href="https://github.com/Vparonline/Vparonline" title="Go to Source">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Vparonline&show_icons=true&theme=radical">
-  </a>
-  <a href="https://github.com/Vparonline/Vparonline">
-  </a>
-</p>
-
-
 <details>
   <summary> Github Stats </summary>
   <img src="https://github-readme-stats.vercel.app/api?username=Vparonline&theme=radical">
