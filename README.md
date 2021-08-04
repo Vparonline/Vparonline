@@ -3,8 +3,7 @@
 </p> -->
 ## 💬 **About me;**
 
-   Hello, I'm Vparonline. To briefly talk about myself, I have been dealing with discord for a long time, and I am also interested in website designs - arrangements. In this github profile, bot infrastructure sharing will start soon, I recommend you to follow :). Nice to meet you, if you want to reach me, my social media accounts are below, good forums.
-
+   Hello, I'm Vparonline. I was botting on the Discord platform. I am also someone who is interested in web design. I can say that code is a hobby for me, it gives me pleasure. I 'm glad to meet you. I have a discord account below, you can contact me there, thank you.
 ##   **Discord;**
 
  <p align="center">
