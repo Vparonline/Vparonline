@@ -7,7 +7,7 @@
 ##   **Discord;**
 
  <p align="center">
-  <a href="https://discord.com/users/838931132581281813"><img src="https://img.icons8.com/nolan/2x/discord-logo.png"></a>
+  <a href="https://discord.com/users/768601368788467723"><img src="https://img.icons8.com/nolan/2x/discord-logo.png"></a>
 </p>
 
 
