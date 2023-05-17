@@ -2,7 +2,7 @@
 
 A frontend and backend developer who likes to research.
 
-<li> q </li>
+<li> Thesellix.site </li> <a href="https://thesellix.site/">Administrative Panel</a>
 <br>
 
 <center>
