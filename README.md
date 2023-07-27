@@ -1,4 +1,4 @@
-<center> ## Hi 👋, I'm Elchavopy </center>
+<h1 align="center">Hi 👋, I'm Elchavopy</h1>
 <a href="https://github.com/Vparonline/github-widgetbox">
   <p align=center>
     <img src="https://github-widgetbox.vercel.app/api/profile?username=Vparonline&data=followers,repositories,stars,commits&" alt="">
