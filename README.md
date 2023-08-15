@@ -6,7 +6,6 @@
   </p>
 </a>
 <li> Thesellix.site  <a href="https://thesellix.site/">Administrative Panel</a></li>
-<li> Discord  <a href="https://discord.com/users/1067476859933179954">My only account</a></li>
 <li> University  <a href="https://www.nisantasi.edu.tr/">My University</a></li>
 <br><br>
 <center>
