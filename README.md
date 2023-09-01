@@ -6,7 +6,6 @@
   </p>
 </a>
 <li> Thesellix.site  <a href="https://thesellix.site/">Administrative Panel</a></li>
-<li> University  <a href="https://www.nisantasi.edu.tr/">My University</a></li>
 <br><br>
 
 <center>
