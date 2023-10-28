@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elchavopy</h1>
 <h3 align="center">A frontend and backend developer who likes to research.</h3>
-<a href="https://github.com/Vparonline/">/*
+<a href="https://github.com/Vparonline/"> <!--
   <p align=center>
     <img src="https://github-widgetbox.vercel.app/api/profile?username=Vparonline&data=followers,repositories,stars,commits&" alt="">
-  </p>*/
+  </p> -->
 </a>
 <li> Thesellix.site  <a href="https://thesellix.site/">Administrative Panel</a></li>
 <br><br>
