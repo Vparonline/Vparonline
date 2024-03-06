@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elchavopy</h1>
-<h3 align="center">An avid researcher who is also a frontend and backend developer, with a passion for cybersecurity.</h3><br><br>
+<h3 align="center">An avid researcher who is also a backend developer, with a passion for cybersecurity.</h3><br><br>
 <a href="https://github.com/Vparonline/"> <!--
   <p align=center>
     <img src="https://github-widgetbox.vercel.app/api/profile?username=Vparonline&data=followers,repositories,stars,commits&" alt="">
