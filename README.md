@@ -3,6 +3,6 @@
 
 <li>Thesellix.site <a href="https://thesellix.site">Management Panel</a> (The project was completed last year) </li><br>
 <li>DotNetHaber <a href="https://dotnethaber.com">Company Backend</a> </li><br>
-<li>Portfolio <a href="https://sectwist.site">[Management Panel](https://sectwist.site)</a> </li><br>
+<li>Portfolio <a href="https://sectwist.site">https://sectwist.site</a> </li><br>
 
   
