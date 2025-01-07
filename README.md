@@ -4,6 +4,7 @@
 <li>Thesellix.site <a href="https://thesellix.site">Management Panel</a> (The project was <a href="https://github.com/Vparonline/sectwist.site-web">completed</a> last year)</li>
 <li>DotNetHaber <a href="https://dotnethaber.com">Company Backend</a> </li>
 <li>FalimDunyasi <a href="https://falimdunyasi.com">Company Backend</a> (It will be activated soon) </li>
+<li>Smmortagim <a href="https://smmortagim.com">Company Backend</a></li>
 <li>Portfolio <a href="https://sectwist.site/">https://sectwist.site/</a> </li>
 
   
